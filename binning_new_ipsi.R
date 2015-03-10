@@ -24,7 +24,7 @@ read.subsamples2 <- function(fs) { # keep all (no sub-sampling to have equal n)
 
 
 # read data
-setwd("/Users/marco/Documents/Arber Lab/RWD/INs coordinates/WT")
+setwd("/Users/marco/Documents/RWD/INs coordinates/WT")
 # insert the path of your txt files here between the quotation marks separated by a comma
 VLfiles <- c(" ")
 VL <- read.subsamples2(VLfiles)
