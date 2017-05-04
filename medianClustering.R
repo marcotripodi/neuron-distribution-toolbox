@@ -3,7 +3,7 @@ setwd("/Users/marco/Documents/RWD/INs coordinates/WT")
 
 # global parameters
 
-# use these for correleation segment by segment
+# use these for correleation segment by segment - this is an example of a branching excercise
 # bins <- seq(0,150,by=15)
 # binnms <- 1:10
 
