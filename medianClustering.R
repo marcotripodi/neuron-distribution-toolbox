@@ -7,7 +7,7 @@ setwd("/Users/marco/Documents/RWD/INs coordinates/WT")
 # bins <- seq(0,150,by=15)
 # binnms <- 1:10
 
-# use these for correleation all segments projected on one plane
+# use the following for correleation all segments projected on one plane
 bins <- c(0,150)
 binnms <- 1
 
