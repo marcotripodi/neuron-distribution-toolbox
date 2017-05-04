@@ -1,6 +1,6 @@
 set.seed=125
 
-# test edit brnaches -  helper function for the rest of the script, we will be using the read.subsamples2 function, but you can decide to use either of the two
+# test edit brnaches 2new -  helper function for the rest of the script, we will be using the read.subsamples2 function, but you can decide to use either of the two
 read.subsamples <- function(fs) { # keep the same n for each dataset (randomly sub-sample larger sets)
 
 	dat <- list()
